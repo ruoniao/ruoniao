@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🐦 As a slow bird, I try to fly early to catch up. 
+- 🐦 I'm a slow bird who flies early — always learning and working hard to catch up.
 - 😄 A linux netowrk enthusiast.
 
 <!--
